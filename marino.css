@@ -1,0 +1,101 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	text-align: left;
+}
+
+
+
+.facebook{
+	color: #ffff;
+	  padding: 4px 12px;
+    display: inline-block;
+	line-height: 1px;
+	
+
+}
+
+a {
+color: #000;
+}
+.fas{
+color: #ffff; 
+}
+.link{
+color: #000;
+}
+
+
+.fa{
+color: #ffff;
+
+}
+.dlevry{
+width:3%;
+padding-bottom: 10px;
+padding-top: 1px;
+}
+.but{
+	display: block;
+	width: 100%;
+	padding: .5rem 1rem;
+	font-size: 1.25rem;
+	line-height: 1.5;
+	border-radius: .3rem;
+	background-color: #ffc107;
+	border-color: #ffc107;
+	text-align: center;
+	color: #212529;
+	transition: all ease-in-out 0.4s;
+		}
+		.but:hover{
+			background-color: #e0a800;
+			border-color: #c69500;
+			transition: color: 0.15s;
+			text-decoration: none;
+		
+		}
+	.nav{
+		background-color: #ffc107e0;
+		
+		
+	}
+	
+	.btn-block {
+		width: 50%;
+		margin-left: 25%;
+	}
+	#logo{
+		font-weight: bold;
+		color: #ffc107;
+	}
+	.card{
+		margin:15px ;
+	}
+	.active{
+		color: #fff;
+	}
+	#footer{
+		background: #6c757d;
+		padding: 0 0 30px 0;
+		font-size: 14px;
+		color: #fff;
+		}
+		#footer .copyright {
+			text-align: center;
+			padding-top: 30px;
+		}
+		.fab{
+			font-size: 23px;
+			padding: 5px;
+		   border-right:1px solid #fff ;
+		   color: #fff;
+		}
+		.fa-instagram {
+			border: none;
+		}
+	.fa-facebook-f{
+		border: none;
+	}
